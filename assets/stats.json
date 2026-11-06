@@ -1,0 +1,21 @@
+{
+  "username": "TheDarkGuardian",
+  "updated_utc": "2026-11-06",
+  "scope": "Public owned repositories, excluding forks, disabled repos and the profile repository",
+  "public_projects": 6,
+  "stars": 5,
+  "joined_year": "2019",
+  "languages_bytes": {
+    "TypeScript": 1312525,
+    "Go": 356585,
+    "Python": 63391,
+    "Shell": 39787,
+    "C": 22224,
+    "CSS": 10984,
+    "JavaScript": 6312,
+    "C#": 6246,
+    "Rust": 6062,
+    "HTML": 1300,
+    "Dockerfile": 1087
+  }
+}

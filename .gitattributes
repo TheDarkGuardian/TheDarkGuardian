@@ -1,0 +1,3 @@
+assets/*.svg linguist-generated=true
+assets/badges/*.svg linguist-vendored=true
+assets/stats.json linguist-generated=true

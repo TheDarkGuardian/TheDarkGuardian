@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="413" viewBox="0 0 900 413" role="img" aria-labelledby="title desc">
+<title id="title">TheDarkGuardian — public code snapshot</title>
+<desc id="desc">6 public original projects. Language shares are measured by code bytes, excluding forks and the profile repository. Updated 06 Nov 2026.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}</style>
+<rect x=".5" y=".5" width="899" height="412" rx="16" fill="#ffffff" stroke="#d7dfeb"/>
+<text x="30" y="36" font-size="12" font-weight="700" letter-spacing="2" fill="#6e4bce" class="mono">PUBLIC CODE / AT A GLANCE</text>
+<text x="870" y="36" text-anchor="end" font-size="11" fill="#52617b" class="mono">06 Nov 2026</text>
+<rect x="30" y="57" width="198" height="86" rx="9" fill="#f6f8fc"/>
+<text x="48" y="96" fill="#182133" font-size="29" font-weight="700">6</text>
+<text x="48" y="122" fill="#52617b" font-size="10" letter-spacing="1" class="mono">PUBLIC PROJECTS</text>
+<rect x="244" y="57" width="198" height="86" rx="9" fill="#f6f8fc"/>
+<text x="262" y="96" fill="#182133" font-size="29" font-weight="700">11</text>
+<text x="262" y="122" fill="#52617b" font-size="10" letter-spacing="1" class="mono">LANGUAGES</text>
+<rect x="458" y="57" width="198" height="86" rx="9" fill="#f6f8fc"/>
+<text x="476" y="96" fill="#182133" font-size="29" font-weight="700">5</text>
+<text x="476" y="122" fill="#52617b" font-size="10" letter-spacing="1" class="mono">STARS EARNED</text>
+<rect x="672" y="57" width="198" height="86" rx="9" fill="#f6f8fc"/>
+<text x="690" y="96" fill="#182133" font-size="29" font-weight="700">2019</text>
+<text x="690" y="122" fill="#52617b" font-size="10" letter-spacing="1" class="mono">ON GITHUB SINCE</text>
+<text x="30" y="181" fill="#182133" font-size="16" font-weight="600">Most used languages</text>
+<circle cx="34" cy="206" r="4" fill="#3178c6"/>
+<text x="47" y="210" fill="#182133" font-size="12">TypeScript</text>
+<rect x="145" y="201" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="145" y="201" width="154.499" height="6" rx="3" fill="#3178c6"/>
+<text x="425" y="210" text-anchor="end" fill="#52617b" font-size="12" class="mono">71.86%</text>
+<circle cx="34" cy="240" r="4" fill="#00add8"/>
+<text x="47" y="244" fill="#182133" font-size="12">Go</text>
+<rect x="145" y="235" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="145" y="235" width="41.974" height="6" rx="3" fill="#00add8"/>
+<text x="425" y="244" text-anchor="end" fill="#52617b" font-size="12" class="mono">19.52%</text>
+<circle cx="34" cy="274" r="4" fill="#6098ca"/>
+<text x="47" y="278" fill="#182133" font-size="12">Python</text>
+<rect x="145" y="269" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="145" y="269" width="7.462" height="6" rx="3" fill="#6098ca"/>
+<text x="425" y="278" text-anchor="end" fill="#52617b" font-size="12" class="mono">3.47%</text>
+<circle cx="34" cy="308" r="4" fill="#89c65b"/>
+<text x="47" y="312" fill="#182133" font-size="12">Shell</text>
+<rect x="145" y="303" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="145" y="303" width="4.683" height="6" rx="3" fill="#89c65b"/>
+<text x="425" y="312" text-anchor="end" fill="#52617b" font-size="12" class="mono">2.18%</text>
+<circle cx="34" cy="342" r="4" fill="#a8b9cc"/>
+<text x="47" y="346" fill="#182133" font-size="12">C</text>
+<rect x="145" y="337" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="145" y="337" width="2.616" height="6" rx="3" fill="#a8b9cc"/>
+<text x="425" y="346" text-anchor="end" fill="#52617b" font-size="12" class="mono">1.22%</text>
+<circle cx="474" cy="206" r="4" fill="#b475ed"/>
+<text x="487" y="210" fill="#182133" font-size="12">CSS</text>
+<rect x="585" y="201" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="585" y="201" width="1.293" height="6" rx="3" fill="#b475ed"/>
+<text x="865" y="210" text-anchor="end" fill="#52617b" font-size="12" class="mono">0.60%</text>
+<circle cx="474" cy="240" r="4" fill="#f1d05a"/>
+<text x="487" y="244" fill="#182133" font-size="12">JavaScript</text>
+<rect x="585" y="235" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="585" y="235" width="0.743" height="6" rx="3" fill="#f1d05a"/>
+<text x="865" y="244" text-anchor="end" fill="#52617b" font-size="12" class="mono">0.35%</text>
+<circle cx="474" cy="274" r="4" fill="#52b56b"/>
+<text x="487" y="278" fill="#182133" font-size="12">C#</text>
+<rect x="585" y="269" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="585" y="269" width="0.735" height="6" rx="3" fill="#52b56b"/>
+<text x="865" y="278" text-anchor="end" fill="#52617b" font-size="12" class="mono">0.34%</text>
+<circle cx="474" cy="308" r="4" fill="#e2a178"/>
+<text x="487" y="312" fill="#182133" font-size="12">Rust</text>
+<rect x="585" y="303" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="585" y="303" width="0.714" height="6" rx="3" fill="#e2a178"/>
+<text x="865" y="312" text-anchor="end" fill="#52617b" font-size="12" class="mono">0.33%</text>
+<circle cx="474" cy="342" r="4" fill="#8b949e"/>
+<text x="487" y="346" fill="#182133" font-size="12">Other</text>
+<rect x="585" y="337" width="215" height="6" rx="3" fill="#f6f8fc"/>
+<rect x="585" y="337" width="0.281" height="6" rx="3" fill="#8b949e"/>
+<text x="865" y="346" text-anchor="end" fill="#52617b" font-size="12" class="mono">0.13%</text>
+<path d="M30 364H870" stroke="#d7dfeb"/>
+<text x="30" y="389" fill="#52617b" font-size="11">Public source bytes · Forks and this profile are excluded</text></svg>

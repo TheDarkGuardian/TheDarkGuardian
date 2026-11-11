@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="413" viewBox="0 0 900 413" role="img" aria-labelledby="title desc">
 <title id="title">TheDarkGuardian — public code snapshot</title>
-<desc id="desc">6 public original projects. Language shares are measured by code bytes, excluding forks and the profile repository. Updated 10 Nov 2026.</desc>
+<desc id="desc">6 public original projects. Language shares are measured by code bytes, excluding forks and the profile repository. Updated 11 Nov 2026.</desc>
 <style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif}.mono{font-family:Consolas,'Liberation Mono',monospace}</style>
 <rect x=".5" y=".5" width="899" height="412" rx="16" fill="#ffffff" stroke="#d7dfeb"/>
 <text x="30" y="36" font-size="12" font-weight="700" letter-spacing="2" fill="#6e4bce" class="mono">PUBLIC CODE / AT A GLANCE</text>
-<text x="870" y="36" text-anchor="end" font-size="11" fill="#52617b" class="mono">10 Nov 2026</text>
+<text x="870" y="36" text-anchor="end" font-size="11" fill="#52617b" class="mono">11 Nov 2026</text>
 <rect x="30" y="57" width="198" height="86" rx="9" fill="#f6f8fc"/>
 <text x="48" y="96" fill="#182133" font-size="29" font-weight="700">6</text>
 <text x="48" y="122" fill="#52617b" font-size="10" letter-spacing="1" class="mono">PUBLIC PROJECTS</text>
